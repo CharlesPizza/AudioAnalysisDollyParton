@@ -12,7 +12,7 @@ At first it we may notice, suprisingly, Dolly has twice the negativity assigned 
 <div class="secondary-compare">    Compared to Barbara's 8% of positive speech.</div>
 
 Let us also look at the two speakers most frequently used words
-![Alt text](Images/Wordcloud%Barbara.png "Barbara's Wordcloud")
+![Alt text](Images/Wordcloud%20Barbara.png "Barbara's Wordcloud")
 Barbara's Top 5 words: <strong>Think, Look, Blonde, Wig, Wear</strong>
 <strong>4/5</strong>of Barbara's top 5 words are about appearence. This may lay a basis for a line of communication which could appear vain to the audience. In addition, the word "hillbilly" 
 would by most accounts be seen as a highly negative word.
