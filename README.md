@@ -18,7 +18,7 @@ Barbara's Top 5 words: <strong>Think, Look, Blonde, Wig, Wear</strong>
 <strong>4/5</strong>of Barbara's top 5 words are about appearence. This may lay a basis for a line of communication which could appear vain to the audience. In addition, the word "hillbilly" 
 would by most accounts be seen as a highly negative word.
 
-Let's compare it to Dolly
+Let's compare it to Dolly<br>
 ![Alt text](Images/Wordcloud%20Dolly.png "Dolly's Wordcloud")<br>
 Dolly's top five words tend towards people and action. Her top words don't include any words that appear inherently negative. 
 With Dolly's top words including: care, kind, joke, class and, freedom. All words which would usually tend towards positive connotations.
