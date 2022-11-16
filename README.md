@@ -21,4 +21,8 @@ would by most accounts be seen as a highly negative word.
 Let's compare it to Dolly<br>
 ![Alt text](Images/Wordcloud%20Dolly.png "Dolly's Wordcloud")<br>
 Dolly's top five words tend towards people and action. Her top words don't include any words that appear inherently negative. 
-With Dolly's top words including: care, kind, joke, class and, freedom. All words which would usually tend towards positive connotations.
+With Dolly's top words including: care, kind, joke, class and, freedom. All words which would usually tend towards positive connotations.<br>
+
+Let's take a wordcloud from another Dolly Interview<br>
+![Alt text](Images/Wordcloud%20Dolly.png "Dolly's Wordcloud")<br>
+Again here we see Dolly's speech follows the same trend. Her words tend towards things or action. 
