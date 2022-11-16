@@ -24,5 +24,5 @@ Dolly's top five words tend towards people and action. Her top words don't inclu
 With Dolly's top words including: care, kind, joke, class and, freedom. All words which would usually tend towards positive connotations.<br>
 
 Let's take a wordcloud from another Dolly Interview<br>
-![Alt text](Images/Wordcloud%20Dolly.png "Dolly's Wordcloud")<br>
+![Alt text](Images/Wordcloud%20Dolly2.png "Dolly's Wordcloud")<br>
 Again here we see Dolly's speech follows the same trend. Her words tend towards things or action. 
